@@ -27,9 +27,9 @@
         android:layout_weight="1"
         android:background="#EDE1F8"
         android:textColor="#888888"
-        android:textSize="20sp"
+        android:textSize="20sp"h
         android:text="確定" />
-
+5555555555555
     <Button
         android:id="@+id/button3"
         android:layout_width="0dp"
